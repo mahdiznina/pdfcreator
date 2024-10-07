@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_job_title">Your Job Title</string>
+    <string name="email">Email: yourname@example.com</string>
+    <string name="phone">Phone: +1234567890</string>
+</resources>
